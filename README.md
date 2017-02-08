@@ -2,7 +2,7 @@
 
 ## Avadio music
 
-To start the project clone this repository.
+To start the project, clone this repository.
 
 ## Back-end setup
 
